@@ -45,7 +45,6 @@ Hi
 hello hello hello hello
 
 STAMPA 3:
-
 Hi
 Hello
 Hello

@@ -3,7 +3,8 @@ Multithreading
 
 -PRIMO ESERCIZIO Multi-threading: Con l'utilizzo dei thread netbeans è  riuscito a stampare due sequenze di stringhe diverse e quindi notando che le due sequenze vengono stampate senza una logica a causa dell'esecuzione imprecisa dei thread. Queste 3 prove di output stampa sono la prova di quanto detto prima. 
 
--OUTPUT 1:Hello
+-STAMPA 1:
+Hello
 Hi
 Hi
 Hi
@@ -24,7 +25,8 @@ Hello
 Hello
 Hello
 
--OUTPUT 2:Hi
+-STAMPA 2:
+Hi
 Hello
 Hello
 Hello
@@ -42,7 +44,7 @@ Hi
 Hi 
 hello hello hello hello
 
-OUTPUT 3:
+STAMPA 3:
 
 Hi
 Hello
